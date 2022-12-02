@@ -22,6 +22,9 @@ Post-doc at AI Chip Center for Emerging Smart Systems (ACCESS)
 Post-doc at The University of Hong Kong
 - July 2020 - June 2021
 
+Visiting student at The University of Sydney
+- 2018
+
 Education
 =====
 [//]: #  <span style="color:green">The University of Hong Kong</span> (September 2015 - June 2020)
