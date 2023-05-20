@@ -8,3 +8,6 @@ venue: 'IEEE Transactions on Neural Networks and Learning Systems'
 paperurl: 'https://ieeexplore.ieee.org/document/9321210'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
+
+
+Change publication list style
