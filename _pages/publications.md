@@ -1,8 +1,10 @@
 ---
 layout: archive
-title: "Recent Publications"
+# title: "Recent Publications"
+title: ""
 permalink: /publications/
 author_profile: true
+sitemap: false
 ---
 
 {% if author.googlescholar %}
@@ -12,5 +14,5 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% include publication-item.html %}
 {% endfor %}
