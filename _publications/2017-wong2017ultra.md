@@ -3,4 +3,4 @@ title: "Ultra-low Latency Continuous Block-parallel Stream Windowing using FPGA 
 collection: publications
 permalink: /publication/
 ---
-Justin Wong, Runbin Shi, **Maolin Wang**, and Hayden So, "Ultra-low-Latency-Continuous-Block-parallel-Stream-Windowing-using-FPGA-On-chip-Memory", in *International Conference on Field Programmable Technology (ICFPT)*, 2017
+Justin Wong, Runbin Shi, **Maolin Wang**, and Hayden So, "Ultra-low Latency Continuous Block-parallel Stream Windowing using FPGA On-chip Memory", in *International Conference on Field Programmable Technology (ICFPT)*, 2017

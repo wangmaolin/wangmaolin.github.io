@@ -19,7 +19,8 @@ def main():
         # print(item_fields['Booktitle'])
 
         pub_year = f'{item_fields["year"]}'
-        clean_title = item_fields["title"].replace("{", "").replace("}","").replace("\\","").replace(" ","-")    
+        # clean_title = item_fields["title"].replace("{", "").replace("}","").replace("\\","").replace(" ","-")    
+        clean_title = item_fields["title"].replace("{", "").replace("}","").replace("\\","")    
 
         md_contents = "---\ntitle: \""   + html_escape(item_fields["title"].replace("{", "").replace("}","").replace("\\","")) + '"\n'
         md_filename = (pub_year+"-"+bib_idx + ".md")
