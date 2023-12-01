@@ -7,22 +7,23 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm currently a post-doc researcher on computer architecture. 
-My research interest is in the design methodology of application-specific accelerators.
-I've designed acceleration architectures in many domains, including:
-- Convolutional Neural Network (CNN) classifier for single-cell analysis in ultrafast imaging flow cytometry
-- CNN training with only integer data types
-- Solvers for convex quadratic programming 
+My research focuses on efficient computer architecture for algorithms in machine learning including:
+- Solvers for convex optimization problems
+- Neural network training on the edge
+- Neural network inference in imaging flow cytometry
 
 Experience
 =====
-Post-doc at AI Chip Center for Emerging Smart Systems (ACCESS)
-- July 2021 - Now
+🟦 RAP at The Hong Kong University of Science and Technology
+- 2023 - Now
 
-Post-doc at The University of Hong Kong
-- July 2020 - June 2021
+🟥 Post-doc at AI Chip Center for Emerging Smart Systems (ACCESS)
+- 2021 - 2023
 
-Visiting student at The University of Sydney
+🟩 Post-doc at The University of Hong Kong
+- 2020 - 2021
+
+🟧 Visiting student at The University of Sydney
 - 2018
 
 Education
