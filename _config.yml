@@ -83,12 +83,12 @@ author:
   name             : "Maolin Wang"
   avatar           : "haima_id_photo.JPG"
   bio              : "Research Assistant Professor"
-  location         : "Hong Kong"
-  employer         :
+  location         : 
+  employer         : "HKUST"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Tj6z728AAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "maolinwang@ust.hk"
+  researchgate     : "https://ece.hkust.edu.hk/maolinwang" 
   uri              :
   bitbucket        :
   codepen          :
