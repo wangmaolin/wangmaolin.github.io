@@ -9,3 +9,6 @@ modify archieve-single.html
 Remove the "sitemap" in the footer
 
 Remove other files not used
+
+#### add new tabs
+modify _data/navigation.yml

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
+Experience
+=====
+🟦 RAP at The Hong Kong University of Science and Technology
+- 2023 - Now
+
+🟥 Post-doc at the [AI Chip Center for Emerging Smart Systems](https://inno-access.hk) 
+- 2021 - 2023
+
+🟩 Post-doc at The University of Hong Kong
+- 2020 - 2021
+
+🟧 Visiting student at The University of Sydney
+- 2018
+
 Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+=====
+[//]: #  <span style="color:green">The University of Hong Kong</span> (September 2015 - June 2020)
+🟩 The University of Hong Kong (*September 2015 - June 2020*)
+- **Ph.D.** in Electronic Engineering
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+[//]: #<span style="color:purple">Tsinghua University</span> (September 2011 - August 2015)
+🟪 Tsinghua University (*September 2011 - August 2015*)
+- **B.Eng** in Electronic Engineering

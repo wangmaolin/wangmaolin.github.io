@@ -12,26 +12,10 @@ My research focuses on efficient computer architecture for algorithms in machine
 - Neural network training on the edge
 - Neural network inference in imaging flow cytometry
 
-Experience
+Openings
 =====
-🟦 RAP at The Hong Kong University of Science and Technology
-- 2023 - Now
+We have exciting opportunities for [Research Assistants](https://inno-access.hk/research-assistant-rth) and [Post-docs](https://inno-access.hk/post-doctoral-fellow) in the AI Chip Center for Emerging Smart Systems. 
+These positions are under the [RTH-ITF](https://www.itf.gov.hk/en/funding-programmes/nurturing-talent/research-talent-hub/research-talent-hub-for-itf-projects-rth-itf-/index.html) Scheme and have competitive salaries and fringe benefits.
 
-🟥 Post-doc at AI Chip Center for Emerging Smart Systems (ACCESS)
-- 2021 - 2023
-
-🟩 Post-doc at The University of Hong Kong
-- 2020 - 2021
-
-🟧 Visiting student at The University of Sydney
-- 2018
-
-Education
-=====
-[//]: #  <span style="color:green">The University of Hong Kong</span> (September 2015 - June 2020)
-🟩 The University of Hong Kong (*September 2015 - June 2020*)
-- **Ph.D.** in Electronic Engineering
-
-[//]: #<span style="color:purple">Tsinghua University</span> (September 2011 - August 2015)
-🟪 Tsinghua University (*September 2011 - August 2015*)
-- **B.Eng** in Electronic Engineering
+We are specifically looking for individuals with expertise in **convex optimization** algorithms and tools like [CVXPY](https://www.cvxpy.org). 
+If you are interested, please apply through the provided links or reach out to me directly.
