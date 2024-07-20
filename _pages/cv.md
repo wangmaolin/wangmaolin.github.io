@@ -11,7 +11,7 @@ redirect_from:
 
 Experience
 =====
-🟦 RAP at The Hong Kong University of Science and Technology
+🟦 Research Assistant Professor at HKUST
 - 2023 - Now
 
 🟥 Post-doc at the [AI Chip Center for Emerging Smart Systems](https://inno-access.hk) 

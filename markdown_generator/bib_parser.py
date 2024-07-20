@@ -13,7 +13,7 @@ def html_escape(text):
 
 def main():
     parser = bibtex.Parser()
-    bibdata = parser.parse_file('./papers.bib')
+    bibdata = parser.parse_file('./new-paper.bib')
     for bib_idx in bibdata.entries:
         item_fields = bibdata.entries[bib_idx].fields
         # print(item_fields['Booktitle'])
