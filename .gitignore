@@ -1,2 +1,10 @@
 _site/
+vendor/
 
+.bundle/
+.vscode/
+
+*.DS_Store
+*.bib
+
+Gemfile.lock
